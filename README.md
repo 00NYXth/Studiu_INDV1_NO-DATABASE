@@ -289,4 +289,7 @@ Datele se pierd la repornire. Pasul natural următor e conectarea la o bază de 
 
 ---
 
+## WEBOGRAFIE
+
+
 *Raport INDV1 — CEITI, 2026. Autor: Găină Valentin, grupa P2333.*
