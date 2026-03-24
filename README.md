@@ -269,6 +269,42 @@ private void dgvProduse_SelectionChanged(object sender, EventArgs e)
 | TC-10 | Verificare persistență în sesiune | Stocul rămâne decrementat între formulare |
 
 ---
+## 6. Reprezentarea Grafică
+
+### 🔐 Login Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28db0b07-2d81-4b3f-ac64-0fad340b3574" width="500"/>
+</p>
+
+---
+
+### 🛠️ Admin Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0395b5eb-c8a6-4c8b-b43c-65683b261fea" width="800"/>
+</p>
+
+---
+
+### 👤 Client Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c7d21e47-ea55-4f07-adc9-0178a8f8a3ff" width="700"/>
+</p>
+
+---
+
+### 🛒 Cart Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/386f1dc0-abc4-45ea-9c85-bae135229b91" width="450"/>
+</p>
+
+---
+
+### 👨‍💼 Angajat Page
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be2d4bc7-7482-4c8d-8db7-b7c1fd931371" width="700"/>
+</p>
+
+---
 
 ## 6. Concluzii
 
